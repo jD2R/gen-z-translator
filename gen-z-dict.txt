@@ -1,30 +1,32 @@
 w/win/a success
-ya/your/you or your or you're
 l/loss/a failure
 tight/great/a positive expression symboling closeness with something or someone
 fire/great/a positive expression over something or someone
-slay/slay/to do something well
+slay/<slay>/to do something well
 FOMO/the fear of missing out/stands for Fear of Missing Out
 ratio/general dislike/<no definition found>
 ratioed/generally disliked/<no definition found>
 goat/best/stands for greatest of all time
 fam/family/family
 glowup/makeover/to improve visually
+lit/hip/positively stylish and cool
 bro/brother/abbreviation of the word "brother"
-E-boy/male interet addict/Someone who uses the internet to express themselves 
+E-boy/male internet addict/Someone who uses the internet to express themselves 
 E-girl/female internet addict/Someone who uses the internet to express themselves 
-cap/a lie/implies a lie
+cap/(a) lie/an adj meaning something is false or implying a lie
 capping/lying/the process of lying
-ghost/ignore/the act of ignoring someone
+ghost/ignore/the act of ignoring someone, typically over text or social media
 sus/suspicious/short for suspicious
 smol/small and adorable/variant of the word small that implies that their smallness makes them cute
 salty/mad/to be mad or jealous about something
-finna/I'm going to/abbreviation of the phrase "fixing to"
+finna/going to/abbreviation of the phrase "fixing to"
 stan/obsessed fan/being obsessed with someone, but not in a creepy way
 tfw/that feeling when/abbreviation of that feeling when
-bet/yes/symbolizes agreement or approval
-dank/great/excellent or of very high quality
+bet/yes/communicates agreement or approval in a challenging yet positive manner
+dank/exquisitely humourous/expressing an exquisitely delightful form of humor
+dankness/exquisite humour/the pure essence of cultured humor
 boujee/fancy/describing something or someone that is of very high quality
+cringe/painfully embarrassing/to feel to cause painful secondhand embarrassment 
 cheugy/weird/not at all trendy
 simp/someone focused on romance/someone who does way too much for the person they have a crush on
 fr/for real/abbreviation for "for real"
@@ -32,3 +34,18 @@ woke/aware/to be aware or informed
 dub/win/short for w, which is slang for win
 idk/I don't know/An expression of profound ignorance
 bussin/good/An adjective to describe something, usually a food, that is good
+u/you/a shortened form of "you"
+ur/your/a shortened form of "your" or "you're"
+ya/yeah/an alternative form of the word "yeah"
+yah/yeah/an alternative form of the word "yeah"
+yas/yes/an altnerative form of the word "yes"
+r/are/an alternative form of the word "are"
+queen/queen/strong, successful woman
+y/why/a shortened form of the word "why"
+rizz/attactive style/"having rizz" means you are attractively stylish
+rizzler/attractive individual/being a rizzler means you charmingly stylish
+rn/right now/an abbreviation of the phrase "right now"
+boi/boy/an alternative version of the word "boy"
+based/cool/expressing ultimate coolness
+bruh/"that's not fair"/an expression of indignance at some injustice 
+bruv/brother/an alternative to the word "brother"
